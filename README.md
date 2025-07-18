@@ -7,6 +7,9 @@ Un juego de plataformas 2D con temática de aventuras de píxeles creado con Uni
 <img width="1334" height="748" alt="image" src="https://github.com/user-attachments/assets/1a477e62-71ac-4cdb-8b54-a9df4c601b5c" />
 <img width="1334" height="748" alt="image" src="https://github.com/user-attachments/assets/cdf32624-7336-4b5c-895d-2b1eec3a9409" />
 
+Enemigos agregados
+<img width="360" height="286" alt="image" src="https://github.com/user-attachments/assets/daa4a726-0368-44b4-8f8a-e01e6738785e" />
+
 Características
 Personaje de plataforma 2D con todas las mecánicas básicas, es decir, movimiento, volteretas, saltos extra, agarre de pared y salto de pared, carrera, animaciones.
 Patrullaje 2D y disparos básicos de IA para enemigos
@@ -17,3 +20,6 @@ Sistema de niveles
 Sistema de puntos de control y reaparición
 Sistema de guardado simple basado en PlayerPrefs que cubre todos los campos necesarios
 UI/UX para estados del juego (ganar, perder, pausa), salud, pantalla de título, etc.
+
+Video de demostracion
+https://www.canva.com/design/DAGtjaY-2vk/9AHvhyutxGbZunaxcRWQDg/edit
